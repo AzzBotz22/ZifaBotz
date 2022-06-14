@@ -3,8 +3,8 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                     "listMessage":  {
                         "title": `Hai Kak ${conn.getName(m.sender)}\n`,
                         "description": "\n\n*©AzzBotz*",
-                        "footerText": "jika ada bug atau erorr Jangan tanya saya,karna saya juga gak tau.",
-                        "buttonText": "SETELAN GRUB",
+                        "footerText": "jika ada bug atau erorr silahkan laporkan ke owner bot.",
+                        "buttonText": "*KLIK DISINI*",
                         "listType": "SINGLE_SELECT",
                         "sections": [
                             {
